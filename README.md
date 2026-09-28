@@ -1,6 +1,7 @@
 # FastAPI Issue Tracker
 
 A small issue tracker with a FastAPI API, JWT authentication, and a React frontend.
+Created for learning purposes.
 
 ## Requirements
 
